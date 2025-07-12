@@ -1,0 +1,17 @@
+.error {
+	color: darkred;
+}
+
+.inputContainer {
+	display: flex;
+	flex-direction: column;
+	max-width: 100%;
+}
+
+.input {
+	border: 1px solid darkgray;
+	padding: 12px 16px;
+	font-size: 16px;
+	color: #2b2822;
+	border-radius: 6px;
+}

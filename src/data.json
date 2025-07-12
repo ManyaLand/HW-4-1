@@ -1,0 +1,74 @@
+[
+	{
+	  "id": 1,
+	  "value": "1",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 2,
+	  "value": "2",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 3,
+	  "value": "3",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 4,
+	  "value": "4",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 5,
+	  "value": "5",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 6,
+	  "value": "6",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 7,
+	  "value": "7",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 8,
+	  "value": "8",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 9,
+	  "value": "9",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 10,
+	  "value": "+",
+	  "color": "yellow",
+	  "isNumber": false
+	},
+	{
+	  "id": 11,
+	  "value": "0",
+	  "color": "green",
+	  "isNumber": true
+	},
+	{
+	  "id": 12,
+	  "value": "-",
+	  "color": "yellow",
+	  "isNumber": false
+	}
+  ]
